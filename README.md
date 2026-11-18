@@ -7,6 +7,7 @@ Derneğin kurumsal web sitesi açılana kadar kullanılacak, harici bağımlıl�
 - index.html — sayfa içeriği ve bağlantılar
 - styles.css — duyarlı sayfa tasarımı
 - assets/logo-transparent.png — sayfada kullanılan, dış zemini şeffaf amblem
+- assets/favicon.png — sekme simgesi için kare kırpılmış tam amblem
 - assets/logo.jpg — orijinal kaynak görsel
 
 ## Yayınlama
