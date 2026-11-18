@@ -6,8 +6,7 @@ Derneğin kurumsal web sitesi açılana kadar kullanılacak, harici bağımlıl�
 
 - index.html — sayfa içeriği ve bağlantılar
 - styles.css — duyarlı sayfa tasarımı
-- assets/logo.jpg — sayfada kullanılan özgün dernek amblemi
-- assets/logo.jpg — orijinal kaynak görsel
+- assets/logo.png — ana sayfada ve üst menüde kullanılan dernek amblemi
 - favicon.ico, favicon-16x16.png, favicon-32x32.png — tarayıcı sekme simgeleri
 - apple-touch-icon.png, android-chrome-*.png, site.webmanifest — mobil simgeler ve manifest
 

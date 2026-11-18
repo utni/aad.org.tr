@@ -24,7 +24,7 @@ a { color: inherit; }
 .page-shell { width: min(100% - 96px, 1380px); min-height: 100vh; margin-inline: auto; display: flex; flex-direction: column; }
 .site-header { display: flex; align-items: center; justify-content: space-between; padding: 28px 0; border-bottom: 1px solid var(--line); }
 .brand { display: inline-flex; align-items: center; gap: 14px; text-decoration: none; }
-.brand-mark { width: 62px; height: 62px; object-fit: contain; }
+.brand-mark { width: 62px; height: 62px; object-fit: cover; border-radius: 50%; }
 .brand-copy { display: grid; gap: 5px; }
 .brand-name { font-family: Georgia, "Times New Roman", serif; font-size: 19px; line-height: 1.06; letter-spacing: .015em; font-weight: 600; }
 .brand-subtitle { color: var(--ink-soft); font-size: 8.5px; letter-spacing: .16em; }
