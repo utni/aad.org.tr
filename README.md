@@ -6,7 +6,8 @@ Derneğin kurumsal web sitesi açılana kadar kullanılacak, harici bağımlıl�
 
 - index.html — sayfa içeriği ve bağlantılar
 - styles.css — duyarlı sayfa tasarımı
-- assets/logo.jpg — dernek amblemi
+- assets/logo-transparent.png — sayfada kullanılan, dış zemini şeffaf amblem
+- assets/logo.jpg — orijinal kaynak görsel
 
 ## Yayınlama
 
